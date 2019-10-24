@@ -4,4 +4,4 @@ just copy it to  ~/.oh-my-zsh/custom/themes and update .zshrc with
 ![screen](screenshot.png)
 
 
-![docker machine](screenshot.png)
+![docker machine](screenshot2.png)
